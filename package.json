@@ -1,6 +1,6 @@
 {
   "name": "popular-passwords",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "List of popular passwords with at least 8 characters",
   "author": "Manuel Vila <mvila@3base.com>",
   "keywords": [
